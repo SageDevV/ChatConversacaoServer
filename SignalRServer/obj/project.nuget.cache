@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jS/q/6hNezWmD/qLLuHBpJnRF0xkjBqRvH1u2ZpT9CMhRnCh7FYzA9WIeP+AGgU0E7+Q4lsZtqQ8Ev9OW29ZbA==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace.NET\\SignalRServer\\SignalRServer\\SignalRServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\122589\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\122589\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
